@@ -5,14 +5,6 @@
       <webServer id="20093b3d-9bc8-419e-ab6b-b80d017f1e88" name="Local IIS" url="http://localhost">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
-      <webServer id="012edefb-41e6-4f89-9a39-63c853766ec9" name="vfmob" url="http://vfmob.com.md-in-64.webhostbox.net/wp-production">
-        <fileTransfer host="ftp.vfmob.com.md-in-64.webhostbox.net" port="21" rootFolder="/public_html/wp-production">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
     </option>
   </component>
 </project>

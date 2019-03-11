@@ -1,23 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="On explicit save action" serverName="Local IIS" deleteMissingItems="true" createEmptyFolders="true">
+  <component name="PublishConfigData" autoUpload="On explicit save action" serverName="Built-in web server" deleteMissingItems="true" createEmptyFolders="true">
     <serverData>
+      <paths name="Built-in web server">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="DO">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/72_smsmymedia-com_Bulk_SMS_REST_API" local="$PROJECT_DIR$" web="/72_smsmymedia-com_Bulk_SMS_REST_API" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/.idea" />
+            <excludedPath local="true" path="$PROJECT_DIR$/.gitignore" />
+            <excludedPath local="true" path="$PROJECT_DIR$/vendor" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
       <paths name="Local IIS">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/php/72/smsmymedia-com_Bulk_SMS_REST_API" />
           </mappings>
-        </serverdata>
-      </paths>
-      <paths name="vfmob">
-        <serverdata>
-          <mappings>
-            <mapping deploy="/sms_my_media_com_api_demo" local="$PROJECT_DIR$" web="/sms_my_media_com_api_demo" />
-          </mappings>
-          <excludedPaths>
-            <excludedPath local="true" path="$PROJECT_DIR$/.idea" />
-            <excludedPath local="true" path="$PROJECT_DIR$/vendor" />
-          </excludedPaths>
         </serverdata>
       </paths>
     </serverData>

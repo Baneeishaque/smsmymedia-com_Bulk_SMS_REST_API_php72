@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bc2efea3-ba48-46e0-88ce-d0e26fb9a686" name="Default Changelist" comment="In">
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webServers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/sms-2018-08-05.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/sms-2018-08-05.log" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <executablePath>composer</executablePath>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+              <folding>
+                <element signature="e#6#85#0#PHP" expanded="true" />
+                <element signature="e#124#145#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>dese</find>
+      <find>mbst</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="baneeishaqe &lt;baneeishaque@gmail.com&gt;" />
+        <option value="baneeishaque@gmail.com" />
+        <option value="Banee Ishaque K" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/SMS_my_media.php" />
+        <option value="$PROJECT_DIR$/sms_my_media.php" />
+        <option value="$PROJECT_DIR$/sms_my_media_com_Gateway.php" />
+        <option value="$PROJECT_DIR$/sms_my_media_com_Gateway_Response.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="C:/Programs/php-7.2.5-nts-Win32-VC15-x64/php.ini" />
+        <option value="$APPLICATION_CONFIG_DIR$/Composer Log/Composer Log.composerLog" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="be39f00a-85fc-4cb6-8b1c-c2b9ac26cc95" name="localhost" use_path_mappings="true">
+        <path_mappings>
+          <mapping local-root="$PROJECT_DIR$" remote-root="D:/DK-HP-PA-2000AR/wwwroot/php/72/smsmymedia-com_Bulk_SMS_REST_API" />
+        </path_mappings>
+      </server>
+    </servers>
+  </component>
+  <component name="PhpWebServerValidation" deployment_server_id="ad4027ee-2795-4f6a-948b-7c72bd214960" path_to_validation_script="D:\DK-HP-PA-2000AR\wwwroot\php\Bulk_SMS_API" selected_validation_type="REMOTE" web_path_to_validation_script="http://127.0.0.1/" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/netresearch/jsonmapper" />
+      <path value="$PROJECT_DIR$/vendor/danielstjules/stringy" />
+      <path value="$PROJECT_DIR$/vendor/phpcollection/phpcollection" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/jms/metadata" />
+      <path value="$PROJECT_DIR$/vendor/jms/serializer" />
+      <path value="$PROJECT_DIR$/vendor/jms/parser-lib" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/nette/utils" />
+      <path value="$PROJECT_DIR$/vendor/nette/component-model" />
+      <path value="$PROJECT_DIR$/vendor/nette/http" />
+      <path value="$PROJECT_DIR$/vendor/nette/forms" />
+      <path value="$PROJECT_DIR$/vendor/giggsey/libphonenumber-for-php" />
+      <path value="$PROJECT_DIR$/vendor/giggsey/locale" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/tecdiary/sms" />
+      <path value="$PROJECT_DIR$/vendor/mtdowling/jmespath.php" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="684" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="smsmymedia-com_Bulk_SMS_REST_API_php72" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="smsmymedia-com_Bulk_SMS_REST_API_php72" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name=".idea" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="smsmymedia-com_Bulk_SMS_REST_API_php72" type="b2602c69:ProjectViewProjectNode" />
+              <item name="smsmymedia-com_Bulk_SMS_REST_API" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="smsmymedia-com_Bulk_SMS_REST_API_php72" type="b2602c69:ProjectViewProjectNode" />
+              <item name="smsmymedia-com_Bulk_SMS_REST_API" type="462c0819:PsiDirectoryNode" />
+              <item name="logs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="smsmymedia-com_Bulk_SMS_REST_API_php72" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="bcb0276e:PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Account_Ledger_Server" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\DK-HP-PA-2000AR\wwwroot\php\72\smsmymedia-com_Bulk_SMS_REST_API" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="72_smsmymedia-com_Bulk_SMS_REST_API" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$" host="0.0.0.0">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc2efea3-ba48-46e0-88ce-d0e26fb9a686" name="Default Changelist" comment="" />
+      <created>1533363566240</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533363566240</updated>
+      <workItem from="1533363574651" duration="3221000" />
+      <workItem from="1533409894008" duration="614000" />
+      <workItem from="1533418849012" duration="2082000" />
+      <workItem from="1533421007159" duration="22671000" />
+      <workItem from="1533469576261" duration="504000" />
+      <workItem from="1533470220616" duration="35000" />
+      <workItem from="1533470272754" duration="162000" />
+      <workItem from="1533470482859" duration="960000" />
+    </task>
+    <task id="LOCAL-00001" summary="In">
+      <created>1533471257684</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1533471257684</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="30249000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4972826" visible="true" weight="0.33963692" />
+      <window_info id="Structure" order="1" sideWeight="0.5027174" side_tool="true" weight="0.2560423" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5060514" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.5151057" weight="0.39967373" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32952693" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.53172207" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.49394855" side_tool="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="File Transfer" order="12" sideWeight="0.49924472" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.3290469" />
+      <window_info anchor="right" id="Remote Host" order="4" weight="0.3290469" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="In" />
+    <option name="LAST_COMMIT_MESSAGE" value="In" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/vendor/giggsey/libphonenumber-for-php/src/PhoneNumberUtil.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/tecdiary/sms/src/Gateways/CustomGateway.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/tecdiary/sms/src/Sms.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/tecdiary/sms/src/Gateways/LogGateway.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/tecdiary/sms/demo/index.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/nette/forms/src/Forms/Form.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/tecdiary/sms/src/Gateways/BulksmsGateway.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/tecdiary/sms/src/Log.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/RotatingFileHandler.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Logger.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/doctrine/collections/lib/Doctrine/Common/Collections/ArrayCollection.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/nette/utils/src/Utils/Arrays.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/mtdowling/jmespath.php/src/JmesPath.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/jms/serializer/tests/Serializer/BaseSerializationTest.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/jms/serializer/src/JMS/Serializer/Annotation/Type.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/tecdiary/sms/src/Gateways/SmsLaneGateway.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/jms/serializer/tests/Fixtures/ObjectWithToString.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/jms/serializer/tests/Fixtures/ObjectWithVersionedVirtualProperties.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/jms/serializer/tests/Fixtures/ObjectWithNullProperty.php" />
+    <entry file="file://$PROJECT_DIR$/sms_my_media_com_Gateway.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/jms/serializer/tests/Fixtures/SimpleObjectWithStaticProp.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/jms/serializer/tests/Fixtures/SimpleObject.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/jms/serializer/tests/Fixtures/SimpleObjectProxy.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/jms/serializer/tests/Fixtures/SimpleSubClassObject.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/jms/serializer/tests/Fixtures/PersonSecretWithVariables.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/jms/serializer/tests/Fixtures/PersonSecretVirtual.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/jms/serializer/tests/Fixtures/Order.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/jms/serializer/tests/Fixtures/ParentDoNotSkipWithEmptyChild.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/jms/serializer/tests/Fixtures/ParentSkipWithEmptyChild.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/jms/serializer/tests/Fixtures/Person.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/jms/serializer/tests/Fixtures/PersonCollection.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/jms/serializer/tests/Fixtures/PersonLocation.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/jms/serializer/tests/Fixtures/PersonSecret.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/jms/serializer/tests/Fixtures/PersonSecretMore.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/jms/serializer/tests/Fixtures/PersonSecretMoreVirtual.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/mtdowling/jmespath.php/src/Env.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/jms/serializer/src/JMS/Serializer/SerializerBuilder.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/netresearch/jsonmapper/src/JsonMapper.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/nette/utils/src/Utils/Json.php" />
+    <entry file="file://$PROJECT_DIR$/sms_my_media_com_Gateway_Response.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="10" column="39" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/jms/serializer/tests/Serializer/JsonSerializationTest.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/jms/serializer/tests/Fixtures/ObjectWithObjectProperty.php" />
+    <entry file="file://$PROJECT_DIR$/.idea/.name">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-192" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="360" lean-forward="true" selection-start-line="360" selection-end-line="360" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-720" />
+      </provider>
+    </entry>
+    <entry file="file://C:/Programs/php-7.2.5-nts-Win32-VC15-x64/php.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="894" selection-start-line="894" selection-end-line="894" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/sms-2019-03-11.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret column="111" lean-forward="true" selection-start-column="111" selection-end-column="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/sms-2018-08-05.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+          <folding>
+            <element signature="e#6#85#0#PHP" expanded="true" />
+            <element signature="e#124#145#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
